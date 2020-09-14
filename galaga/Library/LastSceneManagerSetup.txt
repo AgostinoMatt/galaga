@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/pp/_scenes/GameScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
